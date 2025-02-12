@@ -1,6 +1,6 @@
 # HW2 - Requirements
 
-## **1. Agile **
+## 1. Agile
 
 ---
 
