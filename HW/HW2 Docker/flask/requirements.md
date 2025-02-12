@@ -4,7 +4,7 @@
 
 ---
 
-### Completed User Stories\*\*
+### Completed User Stories
 
 #### User Story 1
 
@@ -16,7 +16,7 @@ As a vanilla git power-user that has never seen GiggleGit before, I want to quic
 
 #### User Story 2
 
-As a team lead onboarding an experienced GiggleGit user, I want to create a easy to understand documentations and design a workflow so my entire team can use it efficiently.\_
+As a team lead onboarding an experienced GiggleGit user, I want to create a easy to understand documentations and design a workflow so my entire team can use it efficiently.
 
 - Task: Create clear documentation and design worflow dor using GiggleGit
   - Ticket 1: Write a GitHub Markdown user guide.
@@ -32,9 +32,9 @@ As a developer who loves memes and Marvel, I want to customize GiggleGit’s mem
 
 ---
 
-### Not a User Story\*\*
+### Not a User Story
 
-_"As a user, I want to be able to authenticate on a new machine."_
+\_"As a user, I want to be able to authenticate on a new machine."
 
 #### Why isn’t this a user story?
 
@@ -53,7 +53,7 @@ _"As a user, I want to be able to authenticate on a new machine."_
 
 #### Non-Functional Requirement 1: Access Control
 
-_Only authorized users should have access to configure SnickerSync._
+\_Only authorized users should have access to configure SnickerSync.
 
 ##### Functional Requirements:
 
